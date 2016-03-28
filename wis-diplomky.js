@@ -7,6 +7,7 @@
 // @version        1.0
 // @grant          none
 // @encoding       utf-8
+// @downloadURL    https://raw.githubusercontent.com/vokracko/WIS-Diplomky/master/wis-diplomky.js
 // ==/UserScript==
 
 var taken = document.getElementsByTagName('table') [5].getElementsByTagName('td');
